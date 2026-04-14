@@ -1,0 +1,97 @@
+Location,Title,Listings,AvgSalary,RemoteCount
+Bangalore,Ai Engineer,285,2138245.6140350876,32
+Bangalore,Bi Developer,206,1086796.1165048543,29
+Bangalore,Business Analyst,330,833242.4242424242,48
+Bangalore,Computer Vision Engineer,137,1935328.4671532847,23
+Bangalore,Data Analyst,492,844512.1951219512,75
+Bangalore,Data Engineer,332,1706957.8313253012,53
+Bangalore,Data Scientist,417,1580887.2901678658,72
+Bangalore,Machine Learning Engineer,318,1994842.7672955976,46
+Bangalore,Mlops Engineer,161,1977018.6335403726,30
+Bangalore,Nlp Engineer,168,1820059.5238095238,17
+Bangalore,Quantitative Analyst,112,1940892.857142857,16
+Bangalore,Research Scientist,77,2453506.4935064935,10
+Chennai,Ai Engineer,64,1957343.75,6
+Chennai,Bi Developer,46,1037826.0869565217,9
+Chennai,Business Analyst,73,860547.9452054794,12
+Chennai,Computer Vision Engineer,32,2177812.5,7
+Chennai,Data Analyst,106,884811.320754717,20
+Chennai,Data Engineer,101,1615742.5742574257,10
+Chennai,Data Scientist,84,1510595.238095238,16
+Chennai,Machine Learning Engineer,86,1830116.2790697673,12
+Chennai,Mlops Engineer,43,1783953.488372093,9
+Chennai,Nlp Engineer,32,1870625.0,6
+Chennai,Quantitative Analyst,16,1816250.0,3
+Chennai,Research Scientist,21,2335238.095238095,4
+Delhi Ncr,Ai Engineer,130,2150230.769230769,19
+Delhi Ncr,Bi Developer,93,1008172.0430107526,11
+Delhi Ncr,Business Analyst,132,795606.0606060605,20
+Delhi Ncr,Computer Vision Engineer,63,1688571.4285714286,7
+Delhi Ncr,Data Analyst,206,913203.8834951456,32
+Delhi Ncr,Data Engineer,151,1773642.3841059604,21
+Delhi Ncr,Data Scientist,195,1646153.8461538462,27
+Delhi Ncr,Machine Learning Engineer,155,2008000.0,17
+Delhi Ncr,Mlops Engineer,63,2030476.1904761905,8
+Delhi Ncr,Nlp Engineer,73,1747397.2602739725,10
+Delhi Ncr,Quantitative Analyst,50,2165600.0,4
+Delhi Ncr,Research Scientist,27,2281111.111111111,5
+Hyderabad,Ai Engineer,164,2102743.9024390243,27
+Hyderabad,Bi Developer,114,1043070.1754385965,17
+Hyderabad,Business Analyst,204,788431.3725490196,42
+Hyderabad,Computer Vision Engineer,80,1781125.0,12
+Hyderabad,Data Analyst,295,913593.220338983,48
+Hyderabad,Data Engineer,229,1881572.0524017466,28
+Hyderabad,Data Scientist,244,1689098.3606557378,42
+Hyderabad,Machine Learning Engineer,208,1923028.8461538462,34
+Hyderabad,Mlops Engineer,96,2004791.6666666667,8
+Hyderabad,Nlp Engineer,93,2027311.8279569892,16
+Hyderabad,Quantitative Analyst,68,1938235.294117647,9
+Hyderabad,Research Scientist,45,2455111.111111111,8
+Kolkata,Ai Engineer,26,1872692.3076923077,3
+Kolkata,Bi Developer,23,1041739.1304347826,2
+Kolkata,Business Analyst,44,891136.3636363636,3
+Kolkata,Computer Vision Engineer,12,1374166.6666666667,3
+Kolkata,Data Analyst,46,778043.4782608695,8
+Kolkata,Data Engineer,40,1608500.0,4
+Kolkata,Data Scientist,25,1524800.0,3
+Kolkata,Machine Learning Engineer,36,2140555.5555555555,2
+Kolkata,Mlops Engineer,19,1848421.0526315789,5
+Kolkata,Nlp Engineer,13,2173846.153846154,2
+Kolkata,Quantitative Analyst,9,1906666.6666666667,1
+Kolkata,Research Scientist,4,2497500.0,1
+Mumbai,Ai Engineer,138,2158478.2608695654,23
+Mumbai,Bi Developer,77,1084025.974025974,12
+Mumbai,Business Analyst,151,828940.3973509934,27
+Mumbai,Computer Vision Engineer,77,1900649.3506493506,14
+Mumbai,Data Analyst,253,868063.2411067194,39
+Mumbai,Data Engineer,180,1805888.888888889,29
+Mumbai,Data Scientist,200,1473150.0,31
+Mumbai,Machine Learning Engineer,143,1976713.2867132868,17
+Mumbai,Mlops Engineer,77,1861818.1818181819,12
+Mumbai,Nlp Engineer,70,2018142.857142857,19
+Mumbai,Quantitative Analyst,66,1983484.8484848484,8
+Mumbai,Research Scientist,37,2557027.027027027,11
+Pune,Ai Engineer,77,1964025.974025974,12
+Pune,Bi Developer,74,1087837.8378378379,11
+Pune,Business Analyst,108,753148.1481481482,21
+Pune,Computer Vision Engineer,47,1895319.1489361702,13
+Pune,Data Analyst,158,883797.4683544304,21
+Pune,Data Engineer,120,1890250.0,20
+Pune,Data Scientist,152,1548223.6842105263,18
+Pune,Machine Learning Engineer,116,1984913.7931034483,16
+Pune,Mlops Engineer,50,1990800.0,6
+Pune,Nlp Engineer,53,1885094.3396226414,9
+Pune,Quantitative Analyst,34,2132941.1764705884,8
+Pune,Research Scientist,28,2588214.285714286,3
+Remote,Ai Engineer,29,2043103.448275862,29
+Remote,Bi Developer,19,947894.7368421053,19
+Remote,Business Analyst,40,833500.0,40
+Remote,Computer Vision Engineer,14,1742142.857142857,14
+Remote,Data Analyst,36,825277.7777777778,36
+Remote,Data Engineer,32,1891875.0,32
+Remote,Data Scientist,45,1762000.0,45
+Remote,Machine Learning Engineer,37,2135945.945945946,37
+Remote,Mlops Engineer,14,1745000.0,14
+Remote,Nlp Engineer,10,2006000.0,10
+Remote,Quantitative Analyst,21,2361428.5714285714,21
+Remote,Research Scientist,6,2176666.6666666665,6

@@ -1,0 +1,75 @@
+Skill,Frequency,Rank,FrequencyPct,Category
+Python,3609,1,36.08,Programming
+SQL,2522,2,25.21,Programming
+Excel,1525,3,15.25,Analytics Tools
+TensorFlow,1499,4,14.99,ML/DL
+Statistics,1403,5,14.03,Analytics Tools
+Power BI,1334,6,13.34,Visualization
+Tableau,1322,7,13.22,Visualization
+R,1296,8,12.96,Programming
+PyTorch,1226,9,12.26,ML/DL
+NLP,1216,10,12.16,NLP/AI
+AWS,1107,11,11.07,Cloud/DevOps
+Looker,875,12,8.75,Visualization
+Deep Learning,828,13,8.28,ML/DL
+Airflow,658,14,6.58,Cloud/DevOps
+Kubernetes,658,15,6.58,Cloud/DevOps
+Docker,655,16,6.55,Cloud/DevOps
+Google Analytics,651,17,6.51,Visualization
+GCP,636,18,6.36,Cloud/DevOps
+Data Visualization,632,19,6.32,Visualization
+Machine Learning,561,20,5.61,ML/DL
+Scikit-learn,532,21,5.32,ML/DL
+dbt,498,22,4.98,Data Platforms
+BigQuery,493,23,4.93,Data Platforms
+Kafka,490,24,4.9,Cloud/DevOps
+Snowflake,480,25,4.8,Data Platforms
+ETL Pipelines,475,26,4.75,Data Platforms
+Apache Spark,474,27,4.74,Data Platforms
+JIRA,456,28,4.56,Soft/Process
+Stakeholder Management,442,29,4.42,Soft/Process
+Feature Engineering,440,30,4.4,Data Platforms
+Model Deployment,437,31,4.37,Data Platforms
+Requirements Gathering,435,32,4.35,Analytics Tools
+Process Mapping,420,33,4.2,Analytics Tools
+MLOps,419,34,4.19,Other
+Agile,412,35,4.12,Soft/Process
+Visio,400,36,4.0,Soft/Process
+OpenAI API,377,37,3.77,NLP/AI
+LLMs,372,38,3.72,NLP/AI
+Fine-tuning,370,39,3.7,ML/DL
+Vector Databases,366,40,3.66,NLP/AI
+RAG,365,41,3.65,NLP/AI
+FastAPI,363,42,3.63,Other
+Prompt Engineering,354,43,3.54,NLP/AI
+LangChain,348,44,3.48,NLP/AI
+SSRS,275,45,2.75,Visualization
+ETL,274,46,2.74,Data Platforms
+Data Modeling,261,47,2.61,Analytics Tools
+DAX,252,48,2.52,Analytics Tools
+Terraform,221,49,2.21,Cloud/DevOps
+Model Monitoring,219,50,2.19,Data Platforms
+CI/CD,209,51,2.09,Cloud/DevOps
+Text Classification,207,52,2.07,NLP/AI
+Transformers,205,53,2.05,ML/DL
+NLTK,204,54,2.04,NLP/AI
+spaCy,204,55,2.04,NLP/AI
+BERT,203,56,2.03,ML/DL
+MLflow,201,57,2.01,Cloud/DevOps
+Named Entity Recognition,201,58,2.01,NLP/AI
+HuggingFace,196,59,1.96,NLP/AI
+YOLO,196,60,1.96,ML/DL
+OpenCV,195,61,1.95,Vision
+NumPy,184,62,1.84,Other
+Image Segmentation,177,63,1.77,Vision
+CNN,176,64,1.76,ML/DL
+Object Detection,176,65,1.76,Vision
+Monte Carlo Simulation,159,66,1.59,Analytics Tools
+Risk Analysis,159,67,1.59,Analytics Tools
+VBA,151,68,1.51,Programming
+MATLAB,146,69,1.46,Programming
+Financial Modeling,144,70,1.44,Analytics Tools
+Research Papers,104,71,1.04,Soft/Process
+Mathematics,102,72,1.02,Other
+Reinforcement Learning,88,73,0.88,ML/DL
+Publications,84,74,0.84,Soft/Process

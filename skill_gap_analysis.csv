@@ -1,0 +1,75 @@
+Skill,ReqFreq,OptFreq,GapScore,DemandTier
+AWS,1107,848,0,Critical
+Agile,412,343,0,High
+Airflow,658,526,0,High
+Apache Spark,474,347,0,High
+BERT,203,155,0,Medium
+BigQuery,493,345,0,High
+CI/CD,209,173,0,Medium
+CNN,176,130,0,Medium
+DAX,252,191,0,Medium
+Data Modeling,261,197,0,Medium
+Data Visualization,632,475,0,High
+Deep Learning,828,620,0,Critical
+Docker,655,492,0,High
+ETL,274,185,0,Medium
+ETL Pipelines,475,375,0,High
+Excel,1525,1026,0,Critical
+FastAPI,363,289,0,Medium
+Feature Engineering,440,312,0,High
+Financial Modeling,144,106,0,Medium
+Fine-tuning,370,279,0,Medium
+GCP,636,496,0,High
+Google Analytics,651,485,0,High
+HuggingFace,196,155,0,Medium
+Image Segmentation,177,139,0,Medium
+JIRA,456,293,0,High
+Kafka,490,341,0,High
+Kubernetes,658,470,0,High
+LLMs,372,273,0,Medium
+LangChain,348,288,0,Medium
+Looker,875,736,0,Critical
+MATLAB,146,121,0,Medium
+MLOps,419,356,0,High
+MLflow,201,144,0,Medium
+Machine Learning,561,418,0,High
+Mathematics,102,76,0,Medium
+Model Deployment,437,349,0,High
+Model Monitoring,219,143,0,Medium
+Monte Carlo Simulation,159,104,0,Medium
+NLP,1216,890,0,Critical
+NLTK,204,154,0,Medium
+Named Entity Recognition,201,149,0,Medium
+NumPy,184,150,0,Medium
+Object Detection,176,135,0,Medium
+OpenAI API,377,270,0,Medium
+OpenCV,195,137,0,Medium
+Power BI,1334,1004,0,Critical
+Process Mapping,420,352,0,High
+Prompt Engineering,354,283,0,Medium
+Publications,84,73,0,Low
+PyTorch,1226,989,0,Critical
+Python,3609,2616,0,Critical
+R,1296,1014,0,Critical
+RAG,365,297,0,Medium
+Reinforcement Learning,88,71,0,Low
+Requirements Gathering,435,319,0,High
+Research Papers,104,76,0,Medium
+Risk Analysis,159,109,0,Medium
+SQL,2522,1829,0,Critical
+SSRS,275,189,0,Medium
+Scikit-learn,532,412,0,High
+Snowflake,480,353,0,High
+Stakeholder Management,442,319,0,High
+Statistics,1403,1068,0,Critical
+Tableau,1322,1003,0,Critical
+TensorFlow,1499,1080,0,Critical
+Terraform,221,148,0,Medium
+Text Classification,207,164,0,Medium
+Transformers,205,141,0,Medium
+VBA,151,114,0,Medium
+Vector Databases,366,270,0,Medium
+Visio,400,335,0,Medium
+YOLO,196,140,0,Medium
+dbt,498,332,0,High
+spaCy,204,151,0,Medium
